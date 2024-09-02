@@ -1,4 +1,5 @@
 let numero = 4.7
+let numero2 = 5.7
 
 //arredondamento comum
 console.log(Math.round(numero))
